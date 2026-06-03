@@ -6,14 +6,12 @@
     text-decoration: none;
     scroll-behavior: smooth;
 }
-
 :root {
     --bg-dark: #12161f;
     --main-blue: #2563eb;
     --text-white: #ffffff;
     --text-gray: #94a3b8;
 }
-
 body {
     background-color: var(--text-white);
     color: #1e293b;
